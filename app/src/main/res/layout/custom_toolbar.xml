@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    android:layout_height="?attr/actionBarSize"
+    android:layout_width="match_parent"
+    android:id="@+id/tatu_nicolae_bogdan_toolbar_main"
+
+    android:background="?attr/colorPrimary"
+    android:elevation="4dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Light"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/tatu_nicolae_bogdan_toolbar_title"
+        style="@style/Toolbar.TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tatu_nicolae_bogdan_counter"
+        android:textColor="@android:color/white"
+        android:layout_gravity="end"
+        android:visibility="invisible"/>
+
+
+</androidx.appcompat.widget.Toolbar>

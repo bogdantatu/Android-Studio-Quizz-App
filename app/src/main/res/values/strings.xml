@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Iti cunosti tara?</string>
+    <string name="quiz">Cat de bine iti cunosti tara?</string>
+
+    <string name="q_1">1. Cate judete are Romania?</string>
+    <string name="q_2">2. Care este cel mai inalt varf din Romania?</string>
+    <string name="q_3">3. Cand este sarbatorita Marea Unire?</string>
+    <string name="a_1">41</string>
+    <string name="a_2">Varful Moldoveanu</string>
+    <string name="a_3">1 Decembrie</string>
+
+    <string name="start">Start</string>
+    <string name="q_raspuns">Trimite Raspuns</string>
+    <string name="q_result">0/5</string>
+    <string name="q_final">Finalizeaza quiz-ul</string>
+    <string name="raspuns">Raspuns</string>
+
+    <string name="questionnumber">#.</string>
+    <string name="incepe_din_nou">Incepe din nou</string>
+
+
+</resources>
+
+
